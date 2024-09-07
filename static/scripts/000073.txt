@@ -1,0 +1,4 @@
+Input: Describe You see a female whose physical stature includes a height of 168.0 cm. Notable measurements are a chest circumference of 111.0 cm, waist circumference of 96.0 cm, and hip circumference of 104.0 cm, with a arm length of 52.0 cm and leg height of 72.0 cm.
+The person demonstrates a motion like a person walks forward, stepping over an object, then continuing to walk and stop after.
+
+

@@ -1,0 +1,4 @@
+Input: Describe Profile of a female: Height of 158.0 cm, with a chest measurement of 96.0 cm, waist of 82.0 cm, and hips spanning 89.0 cm. The arm and leg heights are 48.0 cm and 67.0 cm, respectively.
+The person demonstrates a motion like the person took a small jump forward.
+
+

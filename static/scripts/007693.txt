@@ -1,0 +1,4 @@
+Input: Describe Consider a female who is 163.0 cm tall. They have a chest of 79.0 cm, waist of 68.0 cm, and hips of 93.0 cm. Their arm is 48.0 cm long, and their legs measure 67.0 cm in height.
+The person demonstrates a motion like the person claps and puts their hands down.
+
+

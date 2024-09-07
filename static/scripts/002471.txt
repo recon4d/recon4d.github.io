@@ -1,0 +1,4 @@
+Input: Describe A male with these dimensions: 170.0 cm tall, chest 104.0 cm, waist 87.0 cm, hips 91.0 cm, arm 51.0 cm, and leg height 67.0 cm.
+The person demonstrates a motion like a man walks moderately forward.
+
+

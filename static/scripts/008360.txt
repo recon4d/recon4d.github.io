@@ -1,0 +1,4 @@
+Input: Describe The male stands 181.0 cm tall. They have a chest circumference of 99.0 cm, a waist of 88.0 cm, and hips that measure 93.0 cm. The arm and leg measurements are 56.0 cm and 77.0 cm, respectively.
+The person demonstrates a motion like a man  walks forward in a steady pace.
+
+

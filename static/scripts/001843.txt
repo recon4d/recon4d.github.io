@@ -1,0 +1,4 @@
+Input: Describe A female with these dimensions: 164.0 cm tall, chest 94.0 cm, waist 82.0 cm, hips 99.0 cm, arm 51.0 cm, and leg height 74.0 cm.
+The person demonstrates a motion like the person is waving with their right hand .
+
+

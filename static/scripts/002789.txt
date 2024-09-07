@@ -1,0 +1,4 @@
+Input: Describe A detailed look at a male: They stand 187.0 cm tall, and feature a chest of 103.0 cm, a waist of 94.0 cm, and hips measuring 96.0 cm. Their arm length is 57.0 cm, and the leg height is 77.0 cm.
+The person demonstrates a motion like a person walks forward slowly
+
+

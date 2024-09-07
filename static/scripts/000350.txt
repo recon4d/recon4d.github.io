@@ -1,0 +1,4 @@
+Input: Describe Consider a male who is 186.0 cm tall. They have a chest of 106.0 cm, waist of 104.0 cm, and hips of 106.0 cm. Their arm is 56.0 cm long, and their legs measure 75.0 cm in height.
+The person demonstrates a motion like a man walks forward swing his arms slightly.
+
+

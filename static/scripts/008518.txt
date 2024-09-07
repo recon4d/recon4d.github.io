@@ -1,0 +1,4 @@
+Input: Describe Here is a male with a height of 194.0 cm. Their measurements are as follows: chest 109.0 cm, waist 104.0 cm, and hips 104.0 cm. The lengths of the arm and legs are 59.0 cm and 82.0 cm respectively.
+The person demonstrates a motion like person is leaving in a circular motion.
+
+

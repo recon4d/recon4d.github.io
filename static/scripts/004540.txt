@@ -1,0 +1,4 @@
+Input: Describe Here is a male with a height of 180.0 cm. Their measurements are as follows: chest 106.0 cm, waist 103.0 cm, and hips 97.0 cm. The lengths of the arm and legs are 56.0 cm and 76.0 cm respectively.
+The person demonstrates a motion like a person lowers their arms, gets onto all fours, and crawls
+
+

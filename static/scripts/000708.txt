@@ -1,0 +1,4 @@
+Input: Describe A male with these dimensions: 184.0 cm tall, chest 99.0 cm, waist 87.0 cm, hips 93.0 cm, arm 55.0 cm, and leg height 74.0 cm.
+The person demonstrates a motion like she jumps up and down, kicking her heels in the air.
+
+

@@ -1,0 +1,4 @@
+Input: Describe Here is a female with a height of 166.0 cm. Their measurements are as follows: chest 89.0 cm, waist 76.0 cm, and hips 92.0 cm. The lengths of the arm and legs are 50.0 cm and 70.0 cm respectively.
+The person demonstrates a motion like person stands still and lifts right hand to face and mouth area
+
+

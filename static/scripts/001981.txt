@@ -1,0 +1,4 @@
+Input: Describe Consider a female who is 161.0 cm tall. They have a chest of 103.0 cm, waist of 95.0 cm, and hips of 107.0 cm. Their arm is 47.0 cm long, and their legs measure 63.0 cm in height.
+The person demonstrates a motion like from a standing position the person raises their arms to chest height with their elbows bent and hands angled to mimick animal paws, and then turns at the waist from righ to left
+
+

@@ -1,0 +1,4 @@
+Input: Describe Consider a male who is 166.0 cm tall. They have a chest of 89.0 cm, waist of 77.0 cm, and hips of 90.0 cm. Their arm is 49.0 cm long, and their legs measure 66.0 cm in height.
+The person demonstrates a motion like person bends at the knees and jumps forward
+
+
